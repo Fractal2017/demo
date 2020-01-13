@@ -1,5 +1,5 @@
 
-EXAMPLE 01
+REM EXAMPLE 01
 REM run.bat
 
 ECHO OFF
