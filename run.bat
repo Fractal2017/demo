@@ -1,3 +1,5 @@
+REM EXAMPLE 04
+REM run.bat
 ECHO OFF
 
 ECHO node.js image (node:7.7.4-alpine)
