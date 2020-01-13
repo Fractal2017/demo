@@ -1,3 +1,6 @@
+REM EXAMPLE 06
+REM run.bat
+
 ECHO OFF
 
 ECHO nodejs image
