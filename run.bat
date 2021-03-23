@@ -20,4 +20,4 @@ REM 4. > docker ps
 REM 5. > docker attach bluh
 REM 6. > docker stop bluh
 REM 7. > docker rm <containerid>
-REM 8. DOS> co EXAMPLE 02
+REM 8. DOS> cd EXAMPLE 02
